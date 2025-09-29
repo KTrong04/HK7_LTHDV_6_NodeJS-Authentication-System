@@ -103,8 +103,6 @@ Follow these steps to run the project locally:
 
 This project was created by [Ravikant Singh](https://github.com/ravikantsingh12). Contributions via issues or pull requests are welcome!
 
-# NodeJS Authentication System
-
 ## Demo Results
 
 ### 1. Đăng nhập & Đăng ký
@@ -147,6 +145,7 @@ This project was created by [Ravikant Singh](https://github.com/ravikantsingh12)
 ---
 
 ### 4. Kiểm tra JWT Token bằng Postman
+- **Sau khi đăng nhập vào google thành công, trang homepage sẽ hiển thị mã JWT token**
 - **Token còn hạn**
   ![JWT Still Valid](public/results/test_postman_toke_jwt_stillHaveTime.png)
 
