@@ -1,0 +1,61 @@
+# NodeJS Authentication System
+
+## Demo Results
+
+### 1. Đăng nhập & Đăng ký
+- **Sign in bằng Google**
+  ![Google Signin](public/results/signin_google.png)
+
+- **Đăng nhập Google thành công**
+  ![Google Signin Success](public/results/signin_google_success.png)
+
+- **Đăng ký tài khoản**
+  ![Signup](public/results/input_signup.png)
+
+- **Đăng nhập tài khoản**
+  ![Signin](public/results/input_signin.png)
+
+- **Trang chủ sau khi đăng nhập**
+  ![Homepage](public/results/homepage.png)
+
+---
+
+### 2. Quên mật khẩu & Đặt lại mật khẩu
+- **Nhập email khi quên mật khẩu**
+  ![Input Forget Password](public/results/input_forget_password.png)
+
+- **Nhập mật khẩu mới**
+  ![Input Change Password](public/results/input_changePassword.png)
+
+- **Email thông báo mật khẩu mới**
+  ![Mail New Password](public/results/mail_new_password.png)
+
+- **Trang chủ sau khi reset mật khẩu**
+  ![Homepage Forget Password](public/results/homepage_forget_password.png)
+
+---
+
+### 3. Quản lý người dùng
+- **Hiển thị danh sách user trong MongoDB**
+  ![Show Users MongoDB](public/results/show_users_mongodb_signup.png)
+
+---
+
+### 4. Kiểm tra JWT Token bằng Postman
+- **Token còn hạn**
+  ![JWT Still Valid](public/results/test_postman_toke_jwt_stillHaveTime.png)
+
+- **Token hết hạn**
+  ![JWT Expired](public/results/test_postman_toke_jwt_timeOut.png)
+
+---
+
+### 5. Đăng xuất
+- **Signout**
+  ![Signout](public/results/signout.png)
+
+---
+
+## Sinh viên thực hiện
+- **Student ID**: 22697491  
+- **Fullname**: Trần Kim Trọng
